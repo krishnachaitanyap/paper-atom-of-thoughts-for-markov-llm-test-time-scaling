@@ -1,0 +1,100 @@
+{
+  "problem_name": "Large Language Models (LLMs) exhibit remarkable sc",
+  "functions": [
+    {
+      "name": "throughtest-timescalingmethodshoweverexistingappro",
+      "description": "dantcomputationsduetotheaccumulationofhistoricaldependencyinformation\nduringinference. Toaddressthischallenge,weleveragethememorylessproperty\nof Markov processes to minimize reliance on historical context and propose a\nMarkovianreasoningprocess. ThisfoundationalMarkovchainstructureenables.",
+      "inputs": {
+        "input_data": {
+          "base_type": "unknown",
+          "shape": null,
+          "constraints": []
+        }
+      },
+      "outputs": {
+        "result": {
+          "base_type": "unknown",
+          "shape": null,
+          "constraints": []
+        }
+      },
+      "preconditions": [],
+      "postconditions": [
+        {
+          "description": "Framework throughtest-timescalingmethodsHoweverexistingappro execution completed",
+          "expression": "# Framework throughtest-timescalingmethodsHoweverexistingappro execution completed"
+        }
+      ],
+      "invariants": [],
+      "deterministic": true,
+      "confidence": 0.9
+    },
+    {
+      "name": "seamlessintegrationwithvarioustest-timescalingmeth",
+      "description": "their scaling efficiency. By further scaling up the Markovian reasoning chain\nthroughintegrationwithtechniquessuchastreesearchandreflectiverefinement,\nweuncoveranemergentatomicreasoningstructure,wherereasoningtrajectories\naredecomposedintoaseriesofself-contained,low-complexityatomicunits.",
+      "inputs": {
+        "input_data": {
+          "base_type": "unknown",
+          "shape": null,
+          "constraints": []
+        }
+      },
+      "outputs": {
+        "result": {
+          "base_type": "unknown",
+          "shape": null,
+          "constraints": []
+        }
+      },
+      "preconditions": [],
+      "postconditions": [
+        {
+          "description": "Framework seamlessintegrationwithvarioustest-timescalingmeth execution completed",
+          "expression": "# Framework seamlessintegrationwithvarioustest-timescalingmeth execution completed"
+        }
+      ],
+      "invariants": [],
+      "deterministic": true,
+      "confidence": 0.9
+    },
+    {
+      "name": "recently_test-time_scaling_methods_have",
+      "description": "increasing computational resources during inference. These range from basic Chain-of-Thought\n(CoT)prompting thatextends reasoningchains[37], tomore structuredapproacheslikeTree-of-\nThought(ToT)[44]andGraph-of-Thought(GoT)[4]thatorganizemultipleLLMinvocationsfor\nexploring solution spaces, and recent reasoning models such as OpenAI O1 [27] and DeepSeek\nR1[9]thatenhanceLLMs\u2019long-chainreasoningabilitythroughpost-training[30,25,18].",
+      "inputs": {
+        "input_data": {
+          "base_type": "unknown",
+          "shape": null,
+          "constraints": []
+        }
+      },
+      "outputs": {
+        "result": {
+          "base_type": "unknown",
+          "shape": null,
+          "constraints": []
+        }
+      },
+      "preconditions": [],
+      "postconditions": [
+        {
+          "description": "Framework Recently test-time scaling methods have execution completed",
+          "expression": "# Framework Recently test-time scaling methods have execution completed"
+        }
+      ],
+      "invariants": [],
+      "deterministic": true,
+      "confidence": 0.9
+    }
+  ],
+  "global_invariants": [],
+  "assumptions": [
+    "Inpractice,real-worldproblemsrarelysatisfythestrictMarkovassumptiondirectly"
+  ],
+  "ambiguities": [
+    "3 methodology/framework(s) inferred from text (may need manual refinement)",
+    "throughtest-timescalingmethodsHoweverexistingappro: Preconditions not specified - assuming none",
+    "seamlessintegrationwithvarioustest-timescalingmeth: Preconditions not specified - assuming none",
+    "Recently test-time scaling methods have: Preconditions not specified - assuming none"
+  ],
+  "confidence_score": 0.43333333333333324
+}
